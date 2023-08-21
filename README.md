@@ -6,3 +6,6 @@ The challenge was to code refactor of HTML, CSS, and Git, we were given an alrea
 
 ## Work
 The first item we did was to change all the <div>/<span> into more aemantic titles, wherever a <header> was needed we put and thus wherever a <section> was needed we also put, in doing so we also needed to change the CSS code in order for the correct selectors to be represented for example there was a <div> in CSS but when we changed to a semantic style such as <section> we then had to change the corrisponding CSS code as to match the HTML code selectors. The next thing was to improve on the code by giving certain classes to certain sections as to not need redundant code, for example their did not need to be a .benefits-class/.benefits-lead/.benefits-cost class that all had the same code, so instead it was decided to make the code less redundant and more friendly by making those three into one class of .benefits-box which cut down on code, improves the site, made the code cleaner, as well as still kept the funtionality of the original code.
+
+## Image
+
