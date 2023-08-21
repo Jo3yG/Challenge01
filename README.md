@@ -9,7 +9,7 @@ The first item we did was to change all the <div>/<span> into more aemantic titl
 
 ## Image
 ![Alt text](01-html-css-git-homework-demo.png)
-## GitHub Reository Challenge01
+## GitHub Repository Challenge01
 https://github.com/Jo3yG/Challenge01.git
 ## Website Link
 http://127.0.0.1:5501/Challenge01/index.html
